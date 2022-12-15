@@ -62,4 +62,4 @@ set optimizer as ADAM
 
 
 ##save and load model
-for later use save trained model
+#for later use save trained model
